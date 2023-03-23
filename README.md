@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek-Kumar-Shrivastav
 - 👀 I’m interested in Web Development, Machine Learning and Competitive Programming
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Full Stack Development
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me Gmail: viveksrivastav1998vns@gmail.com
 
